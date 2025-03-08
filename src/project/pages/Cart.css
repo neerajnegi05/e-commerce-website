@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+.img{
+    height: auto;
+    width: 100%;
+}
+.text-card{
+    font-size: xx-large;
+}
+.card-body{
+    font-size: 19px;
+    background-color: rgb(255, 171, 227);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+        }
+      
+      .btn-add{
+        background-color: rgb(252, 35, 107);
+        margin: 25px;
+      }
+      .btn-wish{
+        background-color: rgb(252, 35, 107);
+        margin: 25px;
+      }

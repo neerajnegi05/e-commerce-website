@@ -1,0 +1,29 @@
+.logo{
+    height: 30px;
+    width: 80px;
+    border-radius: 50%;
+}
+.navbar-toggler{
+   color: #ffffff;
+}
+.navbar-toggler-icon{
+ justify-self: end;
+    }
+.nav-link{
+    background: linear-gradient(40deg, rgb(255, 213, 213), transparent);
+    border: 1px solid rgb(231, 231, 231);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.nav-link:hover{
+    background: linear-gradient(40deg, rgb(255, 255, 255), transparent);
+    font-size: larger;
+}
+.btn{
+    background-color: rgb(255, 95, 188);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.btn:hover{
+    background-color: pink;
+    font-size: large;
+}
+
